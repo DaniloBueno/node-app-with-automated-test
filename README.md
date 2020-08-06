@@ -24,6 +24,7 @@ npm test
 ```
 
 ## Considerations
+* Access HTTP server by http://localhost:8080
 * For more server options, run:
 ```
 ./run.sh help
