@@ -21,7 +21,7 @@ restart()
 
 help()
 { 
-    echo "Usage: ./server.sh start, stop, clear or restart"
+    echo "Usage: ./run.sh start, stop, clear or restart"
     echo "where,"
     echo "       start    - start the server"
     echo "       stop     - stop the server"
